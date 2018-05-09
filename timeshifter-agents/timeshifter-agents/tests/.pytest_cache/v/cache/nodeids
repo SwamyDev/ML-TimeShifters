@@ -1,0 +1,7 @@
+[
+  "test_unity_session.py::test_agent_receives_initial_state",
+  "test_unity_session.py::test_agent_step_receives_following_states_but_last_done_state",
+  "test_unity_session.py::test_agent_step_receives_all_but_last_reward",
+  "test_unity_session.py::test_agent_finish_receives_last_reward",
+  "test_unity_session.py::test_environment_receives_agent_action"
+]
